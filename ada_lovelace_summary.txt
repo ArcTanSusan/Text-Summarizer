@@ -1,0 +1,31 @@
+ada_lovelace
+
+Throughout her life, Ada was strongly interested in scientific developments and fads of the day, including phrenology[45] and mesmerism.[46] Even after her famous work with Babbage, Ada continued to work on other projects
+Ada Lovelace met and corresponded with Charles Babbage on many occasions, including socially and in relation to Babbage's Difference Engine and Analytical Engine
+In 1843 he wrote of her:
+in short but the Enchantress of Numbers.[51]
+Based on this work, Ada is now widely credited with being the first computer programmer[1] and her method is recognised as the world's first computer program.[56] Her work was well received at the time: Michael Faraday would describe himself as a fan of her writing.[57]
+Historian Benjamin Woolley has theorized that "his actions suggested he had so enthusiastically sought Ada’s involvement, and so happily indulged her..
+In 12 August 1851, when she was dying of cancer, Ada wrote to him asking him to be her executor, though this letter did not give him the necessary legal authority.
+In 1842, Charles Babbage was invited to give a seminar at the University of Turin about his analytical engine
+Babbage's friend Charles Wheatstone, commissioned Ada to translate Menabrea's paper into English
+The engine has now been recognized as an early model for a computer and Ada's notes as a description of a computer and software.[59]
+Lovelace's notes were labelled alphabetically from A to G
+In her notes, Lovelace emphasized the difference between the Analytical Engine and previous calculating machines, particularly its ability to be programmed to solve problems of any complexity.[61] Lovelace realized that the potential of the device extended far beyond mere number crunching
+This insight is seen as significant by writers such as Betty Toole and Benjamin Woolley, as well as programmer John Graham-Cumming, whose project Plan 28 has the aim of constructing the first complete Analytical Engine.
+Ada never met her father (who died in Greece in 1823) and was raised by her mother, Lady Byron
+But Ada's complex inheritance became apparent as early as 1828, when she produced the design for a flying machine
+In the early nineteenth century there were no "professional" scientists (indeed, the word "scientist" was only coined by William Whewell in 1836)--but the participation of noblewomen in intellectual pursuits was not widely encouraged.
+One of the gentlemanly scientists of the era was to become Ada's lifelong friend
+The family and its fortunes were very much directed by Lady Byron, whose domineering was rarely opposed by King.
+These are the source of her enduring fame.
+Her contributions to science were resurrected only recently, but many new biographies attest to the fascination of Babbage's "Enchantress of Numbers."
+Her mother, Lady Byron, had mathematical training (Byron called her his 'Princess of Parallelograms') and insisted that Ada, who was tutored privately, study mathematics too - an unusual education for a woman.
+In 1843 she published a translation from the French of an article on the Analytical Engine by an Italian engineer, Luigi Menabrea, to which Ada added extensive notes of her own.
+The collaboration with Babbage was close and biographers debate the extent and originality of Ada's contribution.
+Ada was the first to explicitly articulate this notion and in this she appears to have seen further than Babbage
+She hoped to be "an analyst and a metaphysician"
+Hardly anyone else was.
+She was correct.
+Department of Defense was named "Ada" in her honor in 1979.
+She has been used as a character in Gibson and Sterling's the Difference Engine, shown writing letters to Babbage in the series " The Machine that Changed the World" and I have gathered her letters and writings in "Ada, The Enchantress of Numbers: A Selection from the Letters of Lord Byron's Daughter and Her Description of the First Computer Though her life was short (like her father, she died at 36), Ada anticipated by more than a century most of what we think is brand-new computing.

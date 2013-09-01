@@ -1,0 +1,22 @@
+fran_allen
+
+Allen is an expert in the field of optimizing compilers
+Computer languages and their compilers are a key to making this work."
+Allen was not the first woman at IBM Research; in fact, she was one of many
+When she's not exploring new computing opportunities, Allen's passions are climbing mountains and studying environmental issues
+Frances Elizabeth ("Fran") Allen was born August 4, 1932
+She also took courses in computing there—some of the first ever offered—and learned how to program an IBM 650 from Bernard Galler, who was a co-developer of the MAD programming language and later President of the ACM and an ACM Fellow
+Her first assignment was to teach research scientists within IBM how to use this language and indirectly encourage IBM customers to use it
+At first she worked on the IBM 704’s Monitored Automatic Debugging operating system (developed by Roy Nutt, who had also implemented the FORMAT statement for the FORTRAN compiler), but her first major project was for the Stretch/Harvest computer
+At that point she was offered the opportunity to coordinate programming language work for the IBM System/360, but that would have required a lot of traveling
+These techniques developed for the ACS compilers allowed both the compilers themselves and the programs they processed to execute much faster than in previous systems.
+Allen was then assigned to work on IBM’s doomed "Future Systems" (FS) project, which aimed to revolutionize the way IBM built computer systems
+She took a sabbatical from IBM to teach graduate courses on compilers at the Courant Institute for Mathematical Sciences at New York University at the invitation of Jacob "Jack" Schwartz, creator of the SETL programming language and the NYU Ultracomputer at the Courant Institute
+Her next major project for IBM was the Experimental Compiler Systems project (ECS)
+Allen's last big project for IBM was the Parallel Translator (PTRAN), a system for compiling Fortran programs not specially written with parallelism in mind for execution on parallel computer architectures
+Allen was named an IBM Fellow in 1989, an IEEE Fellow in 1991, and an ACM Fellow in 1994
+Allen has traveled internationally not only to give lectures about compilers, but also for athletic pursuits: she is a veteran of many mountain-climbing expeditions in Austria, China, Tibet, and elsewhere.
+Today's programming language compilers still rely on techniques that she pioneered.
+Fran Allen's work has had an enormous impact on compiler research and practice
+Allen developed and implemented her methods as part of compilers for the IBM STRETCH-HARVEST and the experimental Advanced Computing System
+In addition to her many contributions to research and practice, throughout her career Fran Allen has been an inspirational mentor to younger researchers and a leader within the computing community.

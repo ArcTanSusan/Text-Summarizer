@@ -1,0 +1,112 @@
+For her ground breaking innovations, creativity, collaboration and commitment to education, Radia Perlman is awarded the inaugural Anita Borg Institute Women of Vision Award for Innovation. Radia’s contributions to routing protocols and particularly her spanning tree algorithm used by all bridges and switches make the Internet scalable and robust. In security, she has made contributions to sabotage-proof routing, PKI models, and certificate revocation.
+
+“Many claim to be the Father of the Internet, but there is only one ‘Mother’, and that is Radia Perlman.” Greg Papadopoulos, CTO Sun Microsystems.
+
+Radia’s ability to see and articulate brilliantly elegant solutions and innovations has been her hallmark. In the 1970′s she designed and built a system for teaching programming concepts by creating a program consisting of commands that are physical objects that plug together. This system included hardware and software and taught basic concepts such as subroutines, conditionals and recursion. The media lab at MIT recently rediscovered this work and considers Radia “the inventor of tangible computing.”
+
+Radia’s 1988 Ph.D. thesis at MIT titled “Routing with Byzantine Robustness,” was a work ahead of its time. It guaranteed that communication was possible provided at least one non-faulty path existed between a source and a destination, even if all other routers were flooding the network with garbage, lying about routing information, corrupting packets from one source, etc. Many others have tried to solve this problem but nothing else has had such a simple and broad-range solution.
+
+Radia continued to use her skills to become a prolific inventor with over 70 patents granted to date and another 50 in progress. Her wide-ranging contributions to routing have made it more robust, more efficient, and more scalable. During the 1990′s Radia was determined to be the #1 most highly connected inventor as defined as having the highest number of patents referenced by other patents. In addition, and indicative of her collaborative nature, she was also identified as having the highest number of distinct co-inventors. Many of her inventions have been donated to the standards community.
+
+More recently, Radia has produced additional inventions in the area of security. She has been working on PKI models, distributed authorization and ephemeral decryption for making e-mail or other files reliably disappear. In addition, she is working on blind decryption to make ephemeral decryption more secure and more efficient. She is applying this work to various kinds of file systems.
+
+Alongside her abilities as an innovator and collaborator Radia has also been an educator using it to expand innovation outwards. She has published numerous publications and was named as one of the 20 most influential people in information technology by Data Communications Magazine in its 20th and 25th anniversary editions. Radia has taught at Harvard, her alma mater MIT (where she received her, BS, MA and PhD), and the Swedish Royal Institute of Technology (KTH). At KTH Radia was awarded an honorary Ph.D. by computer science department, something done only once every five years.
+
+She is the author of two widely used textbooks (“Interconnections: Bridges, Routers, Switches, and Internetworking Protocols” and co-author along with Charlie Kaufman of “Network Security: Private Communication in a Public World”) both of which promote conceptual understanding and critical thinking and not just deployment and implementation. Not only have her books paid obvious dividends to students but while trying to explain an Internet security protocol called IPsec , she and her co-author discovered new ways to simplify it.
+
+With her expansive knowledge, technical analysis skills, inventive creativity and analytic capability complimented with an extreme accessibility to all, she is a highly sought after teacher and speaker at universities and companies. Radia is an amazing communicator asking probing questions, explaining complex material to people of all experience levels and brainstorming in groups. She is a masterful mentor and serves as an inspiration to those she works with across Sun Microsystems and throughout the industry.
+
+Radia Perlman is truly a mother of invention and a Woman of Vision.
+
+Dr. Radia Perlman is an IEEE Fellow, a software designer and network engineer. She invented the spanning-tree protocol, which is fundamental to modern Ethernet, and scalable and robust link state routing technology that is crucial to the operation of today's Internet.
+
+She joined Intel Corporation in spring 2010 as an Intel Fellow and is responsible for ensuring Intel Labs' leadership in network and security. Prior to her position at Intel, Dr. Perlman worked as a Fellow at Sun Microsystems. Holding more than 100 issued patents, Dr. Perlman invented many fundamental technology innovations in computer networking. In addition to inventing the spanning tree protocol and IS-IS while working for Digital Equipment Corporation, Dr. Perlman recently developed TRILL, an emerging standard for data center interconnection that can replace today's spanning tree Ethernet.
+
+Dr. Perlman is the author of a textbook on networking and coauthor of a textbook on network security. She has been recognized with numerous industry awards including an honorary doctorate from KTH Royal Institute of Technology in Sweden, the Usenix Association lifetime achievement award, the SIGCOMM lifetime achievement award, Silicon Valley Inventor of the year and the Women of Vision Award for Innovation.
+
+Dr. Perlman attended MIT, where she received her Ph.D. in computer science. Her thesis was the seminal work in network routing resistant to malicious failures of switches. She also developed a child-friendly version of the educational robotics language LOGO, called TORTIS (Toddler's Own Recursive Turtle Interpreter System), which helps teach young children about computer programming.
+
+During the 1970s scientists and programmers were working hard on assembling the networks and technology to enable what we now know as the Internet. Engineer and mathematician Radia Perlman was one of very few women involved in process at that time. Her invention of the algorithm behind the Spanning Tree Protocol solved a challenging information routing problem and earned her the moniker "Mother of the Internet."
+
+Born in 1952 in Portsmouth, Va., Perlman spent much of her childhood in New Jersey. She attended the Massachusetts Institute of Technology, graduating with a B.S. degree in 1973 and an M.S. in 1976, both in mathematics. From there she accepted a position with Bolt, Berenek, Newman, or BBN, a government contractor that developed software for network equipment.
+
+While working for BBN, Perlman made an impression on a manager for Digital Equipment Corp. while making a presentation on network routing. Digital offered her a job; she joined the firm in 1980. Digital had been trying to get computers to share information in a reliable manner and asked for her help. She very quickly produced a solution that did exactly what the team wanted it to; the Spanning Tree Protocol, or STP, allows a network to deliver data reliably by making it possible to design the network with redundant links. This setup provides automatic backup paths if an active link fails, and disables the links that are not part of the tree. This leaves a single, active path between any pair of network nodes.
+
+Perlman's work has been described as having put the "basic traffic rules into place" for the Internet. STP ensures that a network remains configured in any event to ensure that data is delivered whenever a user or machine calls for it. The concept was adopted as an IEEE standard for bridge technology and remains in place to this day. Perlman also developed algorithms to make link state protocols such as IS-IS and OSPF efficient and scalable.
+
+Perlman earned her Ph.D. in computer science from MIT in 1988; her doctoral thesis on routing in environments where malicious network failures are present serves as the basis for much of the work that now exists in this area. She left Digital in 1993 to work for Novell; in 1997 she joined Sun Microsystems. Over the course of her career she has earned some 80 patents, 40 of them while working for Sun, where, as of this 2007 writing, she holds the title of Distinguished Engineer. She has also served in recent years as a professor at both Harvard University and the University of Washington, and she has written or co-written two textbooks: "Interconnections: Bridges, Routers, Switches, and Internetworking Protocols"; and "Network Security: Private Communication in a Public World."
+
+At Sun, Perlman specializes in network security. Her recent focus has been on redesigning the algorithm behind STP to make it more robust, more stable, and give it the ability to establish optimal paths between points. The project goes by the name of TRILL, which stands for "transparent interconnection of lots of links." She has also been working for several years on a project she calls an "ephemerizer." The concept would allow users to assign single, dated encryption keys to create entire batches of files so a user or administrator need keep track of only one key for any subset of files. The system would also help users ensure that encrypted data is inaccessible after the expiration date; on a date chosen by a user, corresponding encryption keys would be destroyed.
+
+Perlman has been honored with numerous awards for her work, including having been named 2004 Inventor of the Year by the Silicon Valley Intellectual Property Law Association. She was also listed as one of the 20 most influential people in information technology by Data Communications Magazine, in both its 20th and 25th anniversary editions.
+
+Call her a mother of two, but don't call her "Mother of the Internet." Engineer, author, inventor and, since March, Intel's director of Network and Security Technology, Radia Perlman never cottoned to the label despite its use nearly every time she speaks at a technical conference or is written about in a story (including this one, her first interview since leaving Sun Microsystems).
+
+"'Mother of the Internet.' I did not come up with that," Perlman said. "I was interviewed for some thingy or other, and the writer came up with that. I didn't see the article in advance, and it kinda stuck. One reason they thought they could get away with it is because several people claim being the 'Father of the Internet,' and 'Mother of the Internet' wasn't already staked out."
+
+The reason Perlman winces at the label is "it's a title that one has no clear way of getting, unlike, for example, a Ph.D.," said Perlman, who earned hers in computer science from MIT in 1988.
+
+"It's overreaching because I don't think any single individual deserves credit for inventing the Internet. Many people had large roles, including, actually, Al Gore, and in a sense it was something that was inevitable. Also, being called 'Mother of the Internet' is a little strange in that it emphasizes gender. I mostly don't even think about gender."
+
+Coined by a publication whose name she forgets -- hence, "thingy" -- the cringe-worthy nickname is probably something she's stuck with. Not helping her cause is a Wikipedia entry that references the maternal moniker in the opening sentence.
+
+But also noted are her myriad accomplishments and honors:
+
+- SIGCOMM lifetime achievement award and similar honor from the advanced computing systems association USENIX.
+
+- Lauded as one of the 20 most influential people in the tech industry by Data Communications magazine.
+
+- Named Silicon Valley Inventor of the Year by an intellectual property law association.
+
+- An honorary doctorate from the Royal Institute of Technology of Sweden.
+
+- One of three recipients of the inaugural Women of Vision Award from the Anita Borg Institute.
+
+That's only the short list for the daughter of engineering-grounded parents.
+
+
+Creator of the spanning tree algorithm (and poem)
+
+The achievement that has made Perlman a household name in certain cerebral circles is the spanning tree algorithm, which she invented in 1985 while working for the now-defunct Digital Equipment Corporation.
+
+Her protocol transformed Ethernet from a technology that could only work with a few nodes over a limited distance, into something that could create fairly large networks.
+
+"The protocol is really very simple," Perlman said. "I can summarize it in a poem!" Poem? Yep, the woman who has made large contributions to many areas of network design and standardization is also a poet.
+
+Her ode to the spanning tree algorithm, titled "Algorhyme," is a geek favorite and has even been set to music, thanks to her son, Ray. Perlman's daughter, Dawn, an amateur opera singer, even performed it at a recital. The proud mom accompanied on piano.
+
+Perlman said she is a bit surprised that the spanning tree is what she's most known for given that, "I always thought it was a bad idea to forward Ethernet packets" and that it took her less than a week to invent the algorithm, write the specification and, of course, pen the poem.
+
+Other networking contributions include inventing concepts that made a particular type of routing protocol, called "link state routing," stable, scalable and easy to manage. The protocol she designed for DECnet got adopted by the International Organization for Standardization and renamed IS-IS, and is the routing protocol of choice in most ISPs today.
+
+Recently she's been working on standardizing TRILL (TRansparent Interconnection of Lots of Links), which allows forwarding Ethernet packets using IS-IS instead of spanning tree. ("My apology to the world for introducing spanning tree," she mused.)
+
+Perlman also has done important work in security, including the ability to make data expire and become unreachable, even though backups of the data still exist.
+
+When Perlman isn't inventing or dabbling in poetry, she's writing books. While their titles suggest dry reading that only a computer scientist would relish -- "Interconnections: Bridges, Routers, Switches and Internetworking Protocols" and "Network Security: Private Communication in a Public World" - Perlman said one mustn't judge her books by their covers.
+
+"They're not just technical books," she said. "They're actually very funny."
+
+When talking about the lighter side of Radia Perlman, one must include her stab at stand-up comedy. Yes, stand-up comedy.
+
+While on a cruise to Novosibirsk, Russia to see a solar eclipse in full glory, Perlman signed up to perform in a passenger talent show. "To play piano," she recalled.
+
+"On the day of the show, Charlie [Perlman's significant other] and I walked around the ship and it dawned on us that we hadn't seen a piano. When we were told there wasn't one, I decided to try stand-up comedy. It's something I always wanted to do."
+
+"That night at the talent show, the audience was pretty drunk and I couldn't possibly have been as funny as they were acting like I was. They were rolling! The next day we kept hearing other passengers talking about my performance and retelling some of the stories."
+
+Creative writing skills and a penchant for comedy are desirable attributes, but not why Intel hired Perlman, who turns 60 in December.
+
+Based out of Redmond, Wash., she joined the company in early March as an Intel Fellow, one of the highest levels of technical achievement within the company.
+
+Now after a couple of months on the job, Perlman, who was at Sun for 13 years, and also previously worked for Novell and Digital, finds herself at a company that was never on her radar as a place of employment.
+
+"I never thought about working at Intel," Perlman said.
+
+"I always figured they did all these mysterious chip things. I am in awe of it, but never thought about working here because I have no expertise in things like doubling the number of transistors every 2 years just because Moore's Law says you can, or how to make a room really, really, really clean. I never thought there would be anything interesting for me to do and they wouldn't be interested in me."
+
+Jesse Walker, a principal engineer at Intel Labs, recommended Perlman to Intel Labs Vice President Wen-Hann Wang.
+
+"I've always been pretty happy where I've worked, but so far I'm the happiest here," she said.
+
+"People tend to be intellectually curious and invite participation and advice from those who have fresh eyes and fresh expertise. They have passionate discussions as nerds do, but people do listen to each other."

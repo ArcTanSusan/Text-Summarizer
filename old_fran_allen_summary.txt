@@ -1,0 +1,22 @@
+fran_allen
+
+As a pioneer in compiler organization and optimization algorithms, she has made seminal contribution to the science
+"At the time, FORTRAN was revolutionary and a very exciting breakthrough in computing," she says
+Allen was not the first woman at IBM Research; in fact, she was one of many
+She's a member of the American Alpine Club and the Alpine Club of Canada, participating in exploratory expeditions to the Artic and on the Chinese/Tibet border.
+She was the oldest of six children and grew up on a farm in Peru, New York, near Lake Champlain
+She also took courses in computing there—some of the first ever offered—and learned how to program an IBM 650 from Bernard Galler, who was a co-developer of the MAD programming language and later President of the ACM and an ACM Fellow
+As part of this process, she read the source code for the FORTRAN compiler that had been developed by John Backus (later a Turing Award winner) and his team
+She spent a year in 1962 at NSA overseeing the installation and testing of the system, which was used for 14 years before being retired in 1976.
+At that point she was offered the opportunity to coordinate programming language work for the IBM System/360, but that would have required a lot of traveling
+These techniques developed for the ACS compilers allowed both the compilers themselves and the programs they processed to execute much faster than in previous systems.
+She wrote a letter to IBM management saying so, and recalls that it "was kind of put on the shelf for a while." After four years, the project was killed.
+She took a sabbatical from IBM to teach graduate courses on compilers at the Courant Institute for Mathematical Sciences at New York University at the invitation of Jacob "Jack" Schwartz, creator of the SETL programming language and the NYU Ultracomputer at the Courant Institute
+But the primary focus was on a new language called PL/I, which presented much more difficult problems for an optimizing compiler
+For this effort she consulted with David Kuck (later an ACM Fellow) at the University of Illinois, who worked for many years on parallelizing compilers
+As an IBM Fellow Emerita, she has continued to advise IBM on a number of projects including the Blue Gene supercomputer, and has worked to encourage the involvement of other women in computer-related fields.
+Allen has traveled internationally not only to give lectures about compilers, but also for athletic pursuits: she is a veteran of many mountain-climbing expeditions in Austria, China, Tibet, and elsewhere.
+Rather, she focused on taking programs as programmers like to write them, and made them run efficiently by doing sophisticated analysis and optimization of the code
+Both alone and in joint work with John Cocke, she introduced many of the abstractions, algorithms, and implementations that laid the groundwork for automatic program optimization technology
+She went on to establish and lead the PTRAN project on the automatic parallel execution of FORTRAN programs
+In addition to her many contributions to research and practice, throughout her career Fran Allen has been an inspirational mentor to younger researchers and a leader within the computing community.
